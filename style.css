@@ -12,6 +12,8 @@
     body{
         background-color: lightgrey;
         border-right: 30px mediumseagreen;
+        margin: 0;
+        padding: 0;
     }
     .h1{
         color:black;
