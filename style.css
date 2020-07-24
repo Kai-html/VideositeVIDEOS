@@ -1,0 +1,76 @@
+<style>
+/*VVV I'm not sure what's going on here, but whenever I use <style>, the first group following is always void for some reason.*/
+    .try{
+        color:blue;
+    }
+    pre{
+    border-bottom: 80px solid mediumseagreen;
+    border-top:80px ridge mediumseagreen;
+    border-left: 80px mediumseagreen;
+    border-right: 80px mediumseagreen;
+    }
+    body{
+    background-color: lightgrey;
+    border-right: 30px mediumseagreen;
+    }
+    .h1{
+        color:black;
+        font-family:Helvetica;
+        margin: -74 33 auto;
+        max-width: 100em;
+        line-height: 1.5;
+        padding: 1em -5em;
+    }
+    .p{
+        color:maroon;
+        font-size: 24;
+        font-family:Arial, Helvetica, sans-serif;
+        margin: 55 40 auto;
+    }
+    .link5{
+        color:blue;
+        font-family:Helvetica;
+        margin: -10 40 auto;
+        max-width: 100em;
+        line-height: 10;
+        font-size: 24px;
+    }
+    .link1{
+        color:slateblue;
+        font-family:Helvetica;
+        margin: 0 90 auto;
+        line-height:-1000;
+        font-size: 38px;
+    }
+    .link2{
+        color: red;
+        font-family:Helvetica;
+        margin: 0 90 auto;
+        line-height:-1000;
+        font-size: 38px;
+    }
+    .link3{
+        color:yellow;
+        font-family:Helvetica;
+        margin: 0 90 auto;
+        line-height:-1000;
+        font-size: 38px;
+    }
+    .link4{
+        color:green;
+        font-family:Helvetica;
+        margin: 0 90 auto;
+        line-height:-1000;
+        font-size: 38px;
+    }
+    .video{
+        border-bottom: 40px solid mediumseagreen;
+        border-top:80px ridge mediumseagreen;
+        border-left: 80px mediumseagreen;
+        border-right: 80px mediumseagreen;
+    }
+
+
+
+
+</style>
