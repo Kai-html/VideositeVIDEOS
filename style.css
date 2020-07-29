@@ -3,25 +3,35 @@
     .try{
         color:blue;
     }
-    pre{
-        border-bottom: 80px solid mediumseagreen;
-        border-top:80px ridge mediumseagreen;
+    header{
+        border-bottom: 20px solid mediumseagreen;
+        border-top: 80px solid mediumseagreen;
         border-left: 80px mediumseagreen;
         border-right: 80px mediumseagreen;
+        margin: -20px 0px; 
     }
+    .flexbox{
+        display:flex;
+        flex-wrap:wrap;
+        background-color:lightgray;
+    }
+    .flexbox > div{
+        background-color:lightslategray;
+        width: 300px;
+        margin: 30px;
+    }
+/* pre is used to show off code within a website. stop using pre's for borders and such. */
     body{
         background-color: lightgrey;
-        border-right: 30px mediumseagreen;
         margin: 0;
         padding: 0;
     }
     .h1{
         color:black;
         font-family:Helvetica;
-        margin: -74 33 auto;
+        margin: -94 23 auto;
         max-width: 100em;
         line-height: 1.5;
-        padding: 1em -5em;
     }
     .p{
         color:maroon;
@@ -40,7 +50,7 @@
     .link1{
         color:slateblue;
         font-family:Helvetica;
-        margin: 0 90 auto;
+        margin: 0 110 auto;
         line-height:-1000;
         font-size: 38px;
     }
@@ -65,14 +75,9 @@
         line-height:-1000;
         font-size: 38px;
     }
-    .video{
-        border-bottom: 40px solid mediumseagreen;
-        border-top:80px ridge mediumseagreen;
-        border-left: 80px mediumseagreen;
-        border-right: 80px mediumseagreen;
+    .pbx{
+        font-family:Helvetica;
+        text-align: center;
+        color:black;
     }
-
-
-
-
 </style>
